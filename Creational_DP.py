@@ -1,7 +1,7 @@
 """
 Example:
 CREATION Design Patterns
-___Singleton___
+___SINGLETON___
 """
 
 
