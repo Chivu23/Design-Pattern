@@ -29,3 +29,19 @@ Visitor.
 
 ### 1. Iter & Iterator   (iterabil si iterator)
 - iter has only __ iter__ method and iterator has 2 methods __ iter__ & __ next__
+
+### 2. Generators 
+
+- a simple way to create iterators.
+- is a function
+which returns an object (iterator) that we can iterate on
+(one value at a time)
+- if a function contains at least one yield statement, it becomes a generating function
+- the yield function is similar to the return function, both will return a value, the difference is that return ends the iteration, 
+and yield stops the function saving all the settings and continues from there when is called.
+
+### 3. Context Managers
+
+- the way we are
+
+### 4 Decorators

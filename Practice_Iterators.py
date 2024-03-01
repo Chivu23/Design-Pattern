@@ -77,5 +77,5 @@ nums = MyRangeClass(1, 10)
 for num in nums:
     print(num)
 
-for number in MyRangeClass(1, 4)
+for number in MyRangeClass(1, 4):
     print(number)
