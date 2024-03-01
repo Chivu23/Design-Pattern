@@ -56,3 +56,11 @@ using the "with" block.
 
 
 ### 4 Decorators
+
+- the decorator is a function.
+- decorators are very powerful tools in Python
+because they allow programmers to modify the behavior
+initial of a function or a class.
+- decorators allow us to create a wrapper over another function
+to extend its behavior without changing the implementation
+the original.
