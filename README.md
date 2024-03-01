@@ -26,3 +26,6 @@ Mediator, Memento, Null Object, Observer, State, Strategy, Template method,
 Visitor.
 
 ## Iterators, Generators, Context Managers and Decorators 
+
+### 1. Iter & Iterator   (iterabil si iterator)
+- iter has only __ iter__ method and iterator has 2 methods __ iter__ & __ next__
