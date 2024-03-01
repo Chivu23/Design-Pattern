@@ -42,6 +42,17 @@ and yield stops the function saving all the settings and continues from there wh
 
 ### 3. Context Managers
 
-- the way we are
+- objects that help us control access to
+certain resources.
+- interaction with external files, database,
+external links.
+- the most common way of iteration with context managers is
+using the "with" block.
+- The Context Management Protocol is form with 2 method:
+
+> a. is invoked when entering the "with" block
+
+> b. is invoked when exiting the "with" block
+
 
 ### 4 Decorators
